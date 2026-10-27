@@ -1,0 +1,6 @@
+{
+  "id": "strata:snow_block",
+  "maxStack": 64,
+  "places": "strata:snow_block",
+  "tint": "#f4f7fb"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "strata:desert",
+  "surface": "strata:sand",
+  "subsurface": "strata:sandstone",
+  "filler": "strata:stone",
+  "underwaterSurface": "strata:sand",
+  "temperature": 0.95,
+  "humidity": 0.08,
+  "trees": false,
+  "selection": "climate"
+}

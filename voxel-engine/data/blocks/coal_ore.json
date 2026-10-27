@@ -1,0 +1,13 @@
+{
+  "id": "strata:coal_ore",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 3,
+  "tool": { "kind": "pickaxe", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#4a4a4a",
+  "textures": { "all": "blocks/coal_ore" },
+  "drops": "strata:coal_ore"
+}

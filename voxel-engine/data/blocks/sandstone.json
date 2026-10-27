@@ -1,0 +1,17 @@
+{
+  "id": "strata:sandstone",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 0.8,
+  "tool": { "kind": "pickaxe", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#e0d6a4",
+  "textures": {
+    "top": "blocks/sandstone_top",
+    "side": "blocks/sandstone",
+    "bottom": "blocks/sandstone_bottom"
+  },
+  "drops": "strata:sandstone"
+}

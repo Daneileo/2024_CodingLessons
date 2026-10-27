@@ -1,0 +1,13 @@
+{
+  "id": "strata:air",
+  "opacity": "invisible",
+  "luminance": 0,
+  "hardness": 0,
+  "tool": { "kind": "none", "tier": 0 },
+  "collidable": false,
+  "solid": false,
+  "replaceable": true,
+  "tint": "#000000",
+  "textures": { "all": "blocks/air" },
+  "drops": null
+}

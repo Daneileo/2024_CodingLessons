@@ -1,0 +1,13 @@
+{
+  "id": "strata:oak_leaves",
+  "opacity": "cutout",
+  "luminance": 0,
+  "hardness": 0.2,
+  "tool": { "kind": "hoe", "tier": 0 },
+  "collidable": true,
+  "solid": false,
+  "replaceable": false,
+  "tint": "#2f7a32",
+  "textures": { "all": "blocks/oak_leaves" },
+  "drops": null
+}

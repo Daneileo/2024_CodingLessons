@@ -1,0 +1,11 @@
+{
+  "id": "strata:mountains",
+  "surface": "strata:stone",
+  "subsurface": "strata:gravel",
+  "filler": "strata:stone",
+  "underwaterSurface": "strata:gravel",
+  "temperature": 0.3,
+  "humidity": 0.3,
+  "trees": false,
+  "selection": "special"
+}

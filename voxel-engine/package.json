@@ -1,0 +1,23 @@
+{
+  "name": "strata",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Strata is a from-scratch voxel engine: data-driven blocks, streamed 16x384 columns, and an ECS with AABB physics.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4173",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.6",
+    "vitest": "^3.0.4"
+  }
+}

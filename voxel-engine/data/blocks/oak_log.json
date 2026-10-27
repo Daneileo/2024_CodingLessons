@@ -1,0 +1,19 @@
+{
+  "id": "strata:oak_log",
+  "properties": [{ "name": "axis", "values": ["y", "x", "z"] }],
+  "default": { "axis": "y" },
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 2,
+  "tool": { "kind": "axe", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#6b5334",
+  "textures": {
+    "top": "blocks/oak_log_top",
+    "bottom": "blocks/oak_log_top",
+    "side": "blocks/oak_log"
+  },
+  "drops": "strata:oak_log"
+}

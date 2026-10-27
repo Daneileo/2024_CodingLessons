@@ -1,0 +1,6 @@
+{
+  "id": "strata:gravel",
+  "maxStack": 64,
+  "places": "strata:gravel",
+  "tint": "#8a8078"
+}

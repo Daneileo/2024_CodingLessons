@@ -1,0 +1,6 @@
+{
+  "id": "strata:grass_block",
+  "maxStack": 64,
+  "places": "strata:grass_block",
+  "tint": "#5d9e37"
+}

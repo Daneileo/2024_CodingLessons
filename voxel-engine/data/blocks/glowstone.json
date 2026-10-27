@@ -1,0 +1,13 @@
+{
+  "id": "strata:glowstone",
+  "opacity": "solid",
+  "luminance": 15,
+  "hardness": 0.3,
+  "tool": { "kind": "pickaxe", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#f5c453",
+  "textures": { "all": "blocks/glowstone" },
+  "drops": "strata:glowstone"
+}

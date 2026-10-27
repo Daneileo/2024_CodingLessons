@@ -1,0 +1,6 @@
+{
+  "id": "strata:iron_ore",
+  "maxStack": 64,
+  "places": "strata:iron_ore",
+  "tint": "#9a7b6a"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "strata:dirt",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 0.5,
+  "tool": { "kind": "shovel", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#866043",
+  "textures": { "all": "blocks/dirt" },
+  "drops": "strata:dirt"
+}

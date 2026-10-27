@@ -1,0 +1,13 @@
+{
+  "id": "strata:iron_ore",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 3,
+  "tool": { "kind": "pickaxe", "tier": 1 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#9a7b6a",
+  "textures": { "all": "blocks/iron_ore" },
+  "drops": "strata:iron_ore"
+}
