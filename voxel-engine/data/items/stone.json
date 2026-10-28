@@ -1,0 +1,6 @@
+{
+  "id": "strata:stone",
+  "maxStack": 64,
+  "places": "strata:stone",
+  "tint": "#7d7d7d"
+}

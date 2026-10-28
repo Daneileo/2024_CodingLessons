@@ -1,0 +1,99 @@
+:root {
+  color-scheme: dark;
+  --ink: #f4f7fb;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.65);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #87b7d8;
+  font-family: "Segoe UI", sans-serif;
+}
+
+#view {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  cursor: crosshair;
+}
+
+#loader,
+#pause {
+  position: fixed;
+  inset: 0;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  color: var(--ink);
+  background: rgba(8, 16, 24, 0.45);
+  text-shadow: var(--shadow);
+}
+
+#pause {
+  pointer-events: none;
+}
+
+#loader[hidden],
+#pause[hidden] {
+  display: none;
+}
+
+#pause strong {
+  font-size: 2rem;
+  letter-spacing: 0.08em;
+}
+
+#pause p {
+  margin: 0.35rem 0;
+}
+
+#hud {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  margin: 0;
+  color: var(--ink);
+  text-shadow: var(--shadow);
+  font: 13px/1.45 ui-monospace, monospace;
+  pointer-events: none;
+  white-space: pre;
+}
+
+#crosshair {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  width: 12px;
+  height: 12px;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+}
+
+#crosshair::before,
+#crosshair::after {
+  content: "";
+  position: absolute;
+  background: rgba(255, 255, 255, 0.9);
+  box-shadow: var(--shadow);
+}
+
+#crosshair::before {
+  left: 5px;
+  top: 0;
+  width: 2px;
+  height: 12px;
+}
+
+#crosshair::after {
+  left: 0;
+  top: 5px;
+  width: 12px;
+  height: 2px;
+}

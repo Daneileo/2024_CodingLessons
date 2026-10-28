@@ -1,0 +1,6 @@
+{
+  "id": "strata:coal_ore",
+  "maxStack": 64,
+  "places": "strata:coal_ore",
+  "tint": "#4a4a4a"
+}

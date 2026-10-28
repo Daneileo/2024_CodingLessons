@@ -1,0 +1,13 @@
+{
+  "id": "strata:water",
+  "opacity": "translucent",
+  "luminance": 0,
+  "hardness": 100,
+  "tool": { "kind": "none", "tier": 0 },
+  "collidable": false,
+  "solid": false,
+  "replaceable": true,
+  "tint": "#3a6ea5",
+  "textures": { "all": "blocks/water" },
+  "drops": null
+}

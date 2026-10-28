@@ -1,0 +1,11 @@
+{
+  "id": "strata:forest",
+  "surface": "strata:grass_block",
+  "subsurface": "strata:dirt",
+  "filler": "strata:stone",
+  "underwaterSurface": "strata:sand",
+  "temperature": 0.55,
+  "humidity": 0.86,
+  "trees": true,
+  "selection": "climate"
+}

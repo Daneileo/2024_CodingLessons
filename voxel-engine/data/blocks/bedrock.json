@@ -1,0 +1,13 @@
+{
+  "id": "strata:bedrock",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": -1,
+  "tool": { "kind": "none", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#3a3a3a",
+  "textures": { "all": "blocks/bedrock" },
+  "drops": null
+}

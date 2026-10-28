@@ -1,0 +1,6 @@
+{
+  "id": "strata:dirt",
+  "maxStack": 64,
+  "places": "strata:dirt",
+  "tint": "#866043"
+}

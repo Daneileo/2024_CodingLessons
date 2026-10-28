@@ -1,0 +1,13 @@
+{
+  "id": "strata:gravel",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 0.6,
+  "tool": { "kind": "shovel", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#8a8078",
+  "textures": { "all": "blocks/gravel" },
+  "drops": "strata:gravel"
+}

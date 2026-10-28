@@ -1,0 +1,6 @@
+{
+  "id": "strata:glowstone",
+  "maxStack": 64,
+  "places": "strata:glowstone",
+  "tint": "#f5c453"
+}

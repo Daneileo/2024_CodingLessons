@@ -1,0 +1,13 @@
+{
+  "id": "strata:stone",
+  "opacity": "solid",
+  "luminance": 0,
+  "hardness": 1.5,
+  "tool": { "kind": "pickaxe", "tier": 0 },
+  "collidable": true,
+  "solid": true,
+  "replaceable": false,
+  "tint": "#7d7d7d",
+  "textures": { "all": "blocks/stone" },
+  "drops": "strata:stone"
+}

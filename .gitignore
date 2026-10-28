@@ -162,3 +162,8 @@ imgui.ini
 
 # Ignore Gradle build output directory
 build
+
+### Node / Strata voxel engine ###
+node_modules/
+dist/
+.vite/

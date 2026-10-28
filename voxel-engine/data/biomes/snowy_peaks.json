@@ -1,0 +1,11 @@
+{
+  "id": "strata:snowy_peaks",
+  "surface": "strata:snow_block",
+  "subsurface": "strata:stone",
+  "filler": "strata:stone",
+  "underwaterSurface": "strata:gravel",
+  "temperature": 0.05,
+  "humidity": 0.4,
+  "trees": false,
+  "selection": "special"
+}
